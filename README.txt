@@ -1,1 +1,1 @@
-a easy game
+a easy game coded by qt
